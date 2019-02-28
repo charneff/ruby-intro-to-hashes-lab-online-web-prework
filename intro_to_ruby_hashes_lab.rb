@@ -9,7 +9,9 @@ def actor(name, string)
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroads => {}
+	}
 
 end
 
