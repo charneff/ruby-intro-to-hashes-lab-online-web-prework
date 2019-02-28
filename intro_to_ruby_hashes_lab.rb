@@ -3,7 +3,6 @@ def new_hash
 end
 
 def actor
-  {"name" => "string"}
 
 end
 
